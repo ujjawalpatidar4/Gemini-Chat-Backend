@@ -1,0 +1,42 @@
+# Node
+node_modules/
+.env
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Build
+/dist/
+/build/
+
+# Database
+*.sqlite
+*.db
+
+# Service Account Keys
+*.json
+!db_schema.sql
+
+gemini-chat-backend-*.json
+
+# Misc
+*.zip
+*.bak
+*.tmp
+
+# Coverage
+coverage/
+
+# Others
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Screenshots
+screenshots/
