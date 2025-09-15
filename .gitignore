@@ -20,10 +20,9 @@ Thumbs.db
 *.db
 
 # Service Account Keys
-*.json
+
 !db_schema.sql
 
-gemini-chat-backend-*.json
 
 # Misc
 *.zip
